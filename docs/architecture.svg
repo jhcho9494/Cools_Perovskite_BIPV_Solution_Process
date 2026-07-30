@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eef6ff"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#334155"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="650" fill="url(#sky)"/>
+  <text x="600" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#0f172a">Cools Vacuum-Free Perovskite BIPV</text>
+  <text x="600" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#334155">Low-temperature, all-solution, state-controlled manufacturing for solar building skins</text>
+
+  <g transform="translate(55,120)">
+    <rect x="0" y="0" width="255" height="430" rx="18" fill="#ffffff" stroke="#94a3b8" stroke-width="2"/>
+    <text x="127" y="35" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700" fill="#0f172a">BIPV Product</text>
+    <rect x="55" y="70" width="145" height="270" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
+    <line x1="103" y1="70" x2="103" y2="340" stroke="#2563eb" stroke-width="2"/>
+    <line x1="151" y1="70" x2="151" y2="340" stroke="#2563eb" stroke-width="2"/>
+    <line x1="55" y1="138" x2="200" y2="138" stroke="#2563eb" stroke-width="2"/>
+    <line x1="55" y1="206" x2="200" y2="206" stroke="#2563eb" stroke-width="2"/>
+    <line x1="55" y1="274" x2="200" y2="274" stroke="#2563eb" stroke-width="2"/>
+    <polygon points="35,70 127,25 220,70" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
+    <text x="127" y="380" text-anchor="middle" font-family="Arial" font-size="15" fill="#334155">Lightweight façade</text>
+    <text x="127" y="403" text-anchor="middle" font-family="Arial" font-size="15" fill="#334155">Semi-transparent glazing</text>
+  </g>
+
+  <line x1="330" y1="335" x2="390" y2="335" stroke="#334155" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <g transform="translate(400,120)">
+    <rect x="0" y="0" width="745" height="430" rx="18" fill="#ffffff" stroke="#94a3b8" stroke-width="2"/>
+    <text x="372" y="35" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700" fill="#0f172a">Vacuum-Free Roll-to-Roll Manufacturing Architecture</text>
+
+    <g transform="translate(30,75)">
+      <rect x="0" y="0" width="125" height="90" rx="12" fill="#f8fafc" stroke="#475569"/>
+      <text x="62" y="30" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#0f172a">Polymer Film</text>
+      <text x="62" y="53" text-anchor="middle" font-family="Arial" font-size="13" fill="#475569">Barrier +</text>
+      <text x="62" y="72" text-anchor="middle" font-family="Arial" font-size="13" fill="#475569">Optical Layers</text>
+
+      <line x1="125" y1="45" x2="155" y2="45" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+      <rect x="165" y="0" width="125" height="90" rx="12" fill="#ecfeff" stroke="#0891b2"/>
+      <text x="227" y="30" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#0f172a">Electroless</text>
+      <text x="227" y="53" text-anchor="middle" font-family="Arial" font-size="13" fill="#475569">Ultrathin Metal</text>
+      <text x="227" y="72" text-anchor="middle" font-family="Arial" font-size="13" fill="#475569">Electrode</text>
+
+      <line x1="290" y1="45" x2="320" y2="45" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+      <rect x="330" y="0" width="125" height="90" rx="12" fill="#f0fdf4" stroke="#16a34a"/>
+      <text x="392" y="28" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#0f172a">Perovskite</text>
+      <text x="392" y="51" text-anchor="middle" font-family="Arial" font-size="13" fill="#475569">Coating +</text>
+      <text x="392" y="70" text-anchor="middle" font-family="Arial" font-size="13" fill="#475569">Vertical Growth</text>
+
+      <line x1="455" y1="45" x2="485" y2="45" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+      <rect x="495" y="0" width="125" height="90" rx="12" fill="#fff7ed" stroke="#ea580c"/>
+      <text x="557" y="27" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#0f172a">Wavelength</text>
+      <text x="557" y="50" text-anchor="middle" font-family="Arial" font-size="13" fill="#475569">Selective DMSO</text>
+      <text x="557" y="69" text-anchor="middle" font-family="Arial" font-size="13" fill="#475569">Removal</text>
+
+      <line x1="620" y1="45" x2="650" y2="45" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+      <rect x="660" y="0" width="125" height="90" rx="12" fill="#faf5ff" stroke="#9333ea"/>
+      <text x="722" y="27" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#0f172a">Transfer</text>
+      <text x="722" y="50" text-anchor="middle" font-family="Arial" font-size="13" fill="#475569">Electrode +</text>
+      <text x="722" y="69" text-anchor="middle" font-family="Arial" font-size="13" fill="#475569">Encapsulation</text>
+    </g>
+
+    <g transform="translate(30,215)">
+      <rect x="0" y="0" width="215" height="120" rx="14" fill="#f8fafc" stroke="#64748b" stroke-width="2"/>
+      <text x="107" y="28" text-anchor="middle" font-family="Arial" font-size="15" font-weight="700" fill="#0f172a">State-Based 3-Zone Line</text>
+      <text x="107" y="55" text-anchor="middle" font-family="Arial" font-size="13" fill="#475569">Free solvent removal</text>
+      <text x="107" y="77" text-anchor="middle" font-family="Arial" font-size="13" fill="#475569">Coordinated solvent removal</text>
+      <text x="107" y="99" text-anchor="middle" font-family="Arial" font-size="13" fill="#475569">Phase conversion</text>
+
+      <rect x="265" y="0" width="215" height="120" rx="14" fill="#f8fafc" stroke="#64748b" stroke-width="2"/>
+      <text x="372" y="28" text-anchor="middle" font-family="Arial" font-size="15" font-weight="700" fill="#0f172a">Dual-Wavelength Passivation</text>
+      <text x="372" y="55" text-anchor="middle" font-family="Arial" font-size="13" fill="#475569">Vacate occupied defect site</text>
+      <text x="372" y="77" text-anchor="middle" font-family="Arial" font-size="13" fill="#475569">Deliver oxygen donor</text>
+      <text x="372" y="99" text-anchor="middle" font-family="Arial" font-size="13" fill="#475569">Self-terminating anchoring</text>
+
+      <rect x="530" y="0" width="215" height="120" rx="14" fill="#f8fafc" stroke="#64748b" stroke-width="2"/>
+      <text x="637" y="28" text-anchor="middle" font-family="Arial" font-size="15" font-weight="700" fill="#0f172a">Inline Closed Loop</text>
+      <text x="637" y="55" text-anchor="middle" font-family="Arial" font-size="13" fill="#475569">Spectral feedforward</text>
+      <text x="637" y="77" text-anchor="middle" font-family="Arial" font-size="13" fill="#475569">Endpoint + damage feedback</text>
+      <text x="637" y="99" text-anchor="middle" font-family="Arial" font-size="13" fill="#475569">Spatial correction</text>
+    </g>
+
+    <text x="372" y="385" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#0f172a">No sputtering · No vacuum evaporation · Low-temperature continuous production</text>
+  </g>
+
+  <text x="600" y="605" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700" fill="#0f172a">From Perovskite Film Science to Manufacturable Solar Building Skins</text>
+</svg>
